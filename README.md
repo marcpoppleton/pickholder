@@ -2,7 +2,7 @@
 
 # Overview
 
-This project is not meant to be a universal solution to all hand-lacking wanabee guitarists, it just fits my handicap. I'm sharing it so that anyone having the same kind of disability as mine, no hand with a short stump after the elbow, can give it a try. I'm also sharing it so that any fellow maker can contribute by providing improvements and altenative takes.
+This project is not meant to be a universal solution to all hand-lacking wannabe guitarists, it just fits my handicap. I'm sharing it so that anyone having the same kind of disability as mine, no hand with a short stump after the elbow, can give it a try. I'm also sharing it so that any fellow maker can contribute by providing improvements and alternative takes.
 
 
 
@@ -33,7 +33,7 @@ The build is composed of several parts. The parts are:
 
 ### Socket element
 
-This part is not included in the project. It should be made by a prosthetist to fit properly the stump and prevent injuries. On mine the inner side is openned to allow me to mute the strings with the skin of my stump.
+This part is not included in the project. It should be made by a prosthetist to fit properly the stump and prevent injuries. On mine the inner side is opened to allow me to mute the strings with the skin of my stump.
 To allow the mounting screw to be held to the socket a M10 captive bolt is embedded in the socket.
 
 ### Mounting screw
@@ -58,26 +58,26 @@ This bolt is intended to fix the mounting screw in position.
 
 ![Image of short tightening bolt](images/tightening_bolt.png)
 
-This bolt is intended to fix the pick holder within the mounting screw. The unthreaded part is ment to apply preasure against the shaft of the pick holder.
+This bolt is intended to fix the pick holder within the mounting screw. The unthreaded part is ment to apply pressure against the shaft of the pick holder.
 
 ### Pick holder
 
 ![Image of pick holder](images/pick_holder.png)
  
-Thi is the main part of the project. It is meant to hold the pick in the slot at the bottom. The flat surface on the shaft should be in front of the tightening bolt in order to provide a secure and tight locking. According to the shape of the stump, the angle of the flat surface must be adapted. See Printing section for details.  
+This is the main part of the project. It is meant to hold the pick in the slot at the bottom. The flat surface on the shaft should be in front of the tightening bolt in order to provide a secure and tight locking. According to the shape of the stump, the angle of the flat surface must be adapted. See Printing section for details.  
 
 ### The almighty pick of destiny
 
-Sadly we cannot show you pictures of aformentioned Pick Of Destiny since it has been reclaimed by the Devil. Tenacious D is currently on the case.
+Sadly we cannot show you pictures of aforementioned Pick Of Destiny since it has been reclaimed by the Devil. Tenacious D is currently on the case.
 
 
 ## Printing
 
-The tightening bolts and the pick holder STL files are provided in the stl folder of the repository and can be used to print the parts on a 3D printer.
+The tightening bolts and the pick holder STL files are provided in the [STL](https://github.com/marcpoppleton/pickholder/tree/master/stl) folder of the repository and can be used to print the parts on a 3D printer.
 
 ### Adjusting
 
-The SCAD files are provided in the repository in the scad folder. The bolt files require the [NutsnBolts OpenSCAD library](https://github.com/JohK/nutsnbolts).
+The SCAD files are provided in the repository in the [SCAD](https://github.com/marcpoppleton/pickholder/tree/master/scad) folder. The bolt files require the [NutsnBolts OpenSCAD library](https://github.com/JohK/nutsnbolts).
 
 ## Assembling
 
@@ -95,7 +95,7 @@ The second step is to put it all together
 
 ![Image of picks](images/assembling_2.jpg)
  
-The part inserted in the pick holder can be padded with rubber (collected from an old bycicle air chamber for example). CA glue is used to fix the pick to the pick holder.
+The part inserted in the pick holder can be padded with rubber (collected from an old bicycle air chamber for example). CA glue is used to fix the pick to the pick holder.
 
 ### Step 3
 
