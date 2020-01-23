@@ -8,10 +8,10 @@ This project is not meant to be a universal solution to all hand-lacking wanabee
 
 # Building it
 
-* [Requirements](##Requirements)
-* [Parts](##Parts)
-* [Printing](##Printing)
-* [Assembling](##Assembling)
+* [Requirements](#Requirements)
+* [Parts](#Parts)
+* [Printing](#Printing)
+* [Assembling](#Assembling)
 
 
 ## Requirements
